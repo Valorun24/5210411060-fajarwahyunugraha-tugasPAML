@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 # 5210411060-fajarwahyunugraha-tugasPAML
 
 
-# splash screen![splash screen]
-(https://github.com/user-attachments/assets/af7b3314-d768-4914-b4eb-1d2b3b42cb28)
+# splash screen!
+! [alt text]
 
 
