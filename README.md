@@ -20,11 +20,20 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/splash_screen.png?raw=true)
 
 # login
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/splash_screen.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
 
 # daftar
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+
 # lupa password
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+
 # home
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+
 # akun
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+
 # kelola akun
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
 
