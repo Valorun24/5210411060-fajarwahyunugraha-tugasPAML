@@ -23,17 +23,17 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
 
 # daftar
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/daftar.png?raw=true)
 
 # lupa password
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/lupa_password.png?raw=true)
 
 # home
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/home.png?raw=true)
 
 # akun
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/akun.png?raw=true)
 
 # kelola akun
-![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/login.png?raw=true)
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/kelola_akun.png?raw=true)
 
