@@ -16,8 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # 5210411060-fajarwahyunugraha-tugasPAML
 
-
-# splash screen!
+# splash screen
 ![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/splash_screen.png?raw=true)
 
+# login
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/splash_screen.png?raw=true)
+
+# daftar
+# lupa password
+# home
+# akun
+# kelola akun
 
