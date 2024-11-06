@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # splash screen!
-! [alt text]
+![alt text](https://github.com/Valorun24/5210411060-fajarwahyunugraha-tugasPAML/blob/main/assets/images/splash_screen.png?raw=true)
 
 
