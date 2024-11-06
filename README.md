@@ -16,4 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # 5210411060-fajarwahyunugraha-tugasPAML
 
+<<<<<<< HEAD
+=======
+# splash screen![splash screen]
+(https://github.com/user-attachments/assets/af7b3314-d768-4914-b4eb-1d2b3b42cb28)
+>>>>>>> 02ae234d05cfa329248c0ccc10635649c6620c48
 
